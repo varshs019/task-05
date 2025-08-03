@@ -128,4 +128,3 @@ You can easily customize colors, fonts, and spacing by modifying the CSS custom 
 
 ---
 
-**Built with ❤️ using modern web technologies**
